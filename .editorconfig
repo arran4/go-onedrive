@@ -1,0 +1,4 @@
+[root]
+
+[*.go]
+indent_size = tab
